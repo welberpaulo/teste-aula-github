@@ -1,0 +1,1 @@
+var help = "Ajuda";
